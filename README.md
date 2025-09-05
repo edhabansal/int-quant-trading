@@ -1,1 +1,41 @@
 # int-quant-trading
+
+## Assignment Tasks
+
+### Question 1
+
+1. **Stock Ratio Analysis (Jan 2022 – Jan 2023)**
+   - Select 5 stocks and download their data.
+   - Calculate the following ratios:  
+     - `Open / Close`  
+     - `Open / Low`  
+     - `High / Low`  
+     - `High / Close`  
+   - Count how many times these ratios equal **0.35, 0.5, 1, 3.5**.
+
+2. **Stock Price Visualization (Jan 2020 – Jan 2023)**
+   - Plot a **candlestick chart** (daily intervals) of `High` and `Low` prices for one chosen stock.  
+   - Plot a **line chart** of `Closing Prices` for any 2 chosen stocks on the same graph.
+
+3. **Graph Interpretation**
+   - Interpret the graphs by identifying **bullish/bearish phases**, sharp rises/drops, and summarize the stock price trends of the two compared stocks.
+
+---
+
+### Question 2
+
+1. **Stationarity Testing**
+   - Use the **ADF test** to identify:  
+     - One **stationary** pair of stocks.  
+     - One **non-stationary** pair of stocks.  
+
+2. **Z-Score Analysis**
+   - Plot the **Z-score** of the ratio of closing prices for both pairs.  
+   - Add reference lines for the **mean** and **mean ± 2 × standard deviation**.
+
+3. **Sharpe Ratio**
+   - Calculate the **Sharpe ratio** of any one chosen stock (daily data, last 1 year).
+
+4. **Golden Cross & Death Cross**
+   - For the same stock, find the dates when the **15-day and 50-day moving averages** cross.  
+   - Identify both **Golden Cross** and **Death Cross** events over a **2-year period**.
